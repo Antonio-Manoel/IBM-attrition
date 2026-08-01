@@ -10,8 +10,8 @@ DADOS_ORIGINAIS = PASTA_DADOS / "employee_attrition.csv"
 DADOS_TRATADOS = PASTA_DADOS / "employee_attrition.parquet"
 
 # coloque abaixo o caminho para os arquivos de modelos de seu projeto
-#PASTA_MODELOS = PASTA_PROJETO / "modelos"
-#MODELO_FINAL = PASTA_MODELOS / "logistic_regression_rus.joblib"
+PASTA_MODELOS = PASTA_PROJETO / "dados"
+MODELO_FINAL = PASTA_MODELOS / "logistic_regression_rus.joblib"
 
 # coloque abaixo outros caminhos que você julgar necessário
 #PASTA_RELATORIOS = PASTA_PROJETO / "relatorios"
