@@ -5,4 +5,4 @@ scikit-learn==1.5.1
 scipy==1.14.0
 shapely==2.0.6
 streamlit==1.52.2
-imblearn==0.14.1
+imbalanced-learn==0.14.1
